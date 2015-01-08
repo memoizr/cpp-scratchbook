@@ -2,6 +2,7 @@
 #include <string>
 
 using namespace std;
+
 class Salute {
   string words = "mystring";
   public:
