@@ -8,7 +8,6 @@ class Salute {
     string hello() {
       return words;
     }
-
 };
 
 int main()
